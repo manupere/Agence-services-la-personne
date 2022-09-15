@@ -12,9 +12,7 @@
  */
 
  
- .assombrir-image{
-  filter: brightness (5%);
- }
+ 
 :root {
   --bs-blue: #0d6efd;
   --bs-indigo: #6610f2;
@@ -11447,7 +11445,7 @@ header.masthead .masthead-heading {
     line-height: 2.25rem;
     margin-bottom: 2rem;
   }
-  header.masthead .masthead-heading {
+  header.masthead . {
     font-size: 4.5rem;
     font-weight: 700;
     line-height: 4.5rem;
